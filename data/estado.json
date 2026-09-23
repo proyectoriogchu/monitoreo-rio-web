@@ -1,0 +1,234 @@
+{
+  "generado_en": "2026-09-22T22:57:15Z",
+  "periodo_lluvia": "Período 21/09/26 09:00hs al 22/09/26 09:00hs",
+  "lluvia_actualizado_en": "2026-09-22T12:00:00Z",
+  "clima": {
+    "fuente": "Open-Meteo.com",
+    "atribucion": "Weather data by Open-Meteo.com",
+    "url": "https://open-meteo.com/",
+    "licencia": "CC BY 4.0",
+    "licencia_url": "https://creativecommons.org/licenses/by/4.0/",
+    "cambios": "Datos adaptados por esta app: códigos WMO agrupados en categorías (soleado/parcial/nublado/lluvia/tormenta) y dirección del viento convertida de grados a puntos cardinales.",
+    "lat": -33.0109,
+    "lon": -58.5108,
+    "dias": [
+      {
+        "fecha": "2026-09-21",
+        "codigo_wmo": 1,
+        "condicion": "parcial",
+        "temp_max": 17.7,
+        "temp_min": 10.5,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 39,
+        "viento_max_kmh": 30.3,
+        "rafagas_max_kmh": 62.6,
+        "viento_direccion_grados": 227,
+        "viento_direccion": "SO"
+      },
+      {
+        "fecha": "2026-09-22",
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 14.4,
+        "temp_min": 6.7,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 0,
+        "viento_max_kmh": 19.2,
+        "rafagas_max_kmh": 41.8,
+        "viento_direccion_grados": 213,
+        "viento_direccion": "SO"
+      },
+      {
+        "fecha": "2026-09-23",
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 17.6,
+        "temp_min": 5.5,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 0,
+        "viento_max_kmh": 15.6,
+        "rafagas_max_kmh": 35.3,
+        "viento_direccion_grados": 23,
+        "viento_direccion": "NE"
+      },
+      {
+        "fecha": "2026-09-24",
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 23.7,
+        "temp_min": 9.2,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 0,
+        "viento_max_kmh": 16.2,
+        "rafagas_max_kmh": 36.4,
+        "viento_direccion_grados": 9,
+        "viento_direccion": "N"
+      },
+      {
+        "fecha": "2026-09-25",
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 26.7,
+        "temp_min": 13.1,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 2,
+        "viento_max_kmh": 18.0,
+        "rafagas_max_kmh": 37.1,
+        "viento_direccion_grados": 80,
+        "viento_direccion": "E"
+      }
+    ]
+  },
+  "clima_actualizado_en": "2026-09-21T22:13:31Z",
+  "estaciones": [
+    {
+      "id": "salto_grande_abajo",
+      "nombre": "Salto Grande Abajo",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": null,
+      "valor_actual": 10.57,
+      "fecha_actual": "2026-09-21T00:00:00",
+      "valor_anterior": 10.87,
+      "fecha_anterior": "2026-09-20T00:00:00",
+      "variacion": -0.3,
+      "tendencia": "baja",
+      "nivel_actualizado_en": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "concordia",
+      "nombre": "Concordia",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": 0,
+      "valor_actual": 7.52,
+      "fecha_actual": "2026-09-21T00:00:00",
+      "valor_anterior": 7.6,
+      "fecha_anterior": "2026-09-20T00:00:00",
+      "variacion": -0.08,
+      "tendencia": "baja",
+      "nivel_actualizado_en": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "colon",
+      "nombre": "Colón",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": 0,
+      "valor_actual": 4.29,
+      "fecha_actual": "2026-09-21T00:00:00",
+      "valor_anterior": 4.29,
+      "fecha_anterior": "2026-09-20T00:00:00",
+      "variacion": 0.0,
+      "tendencia": "estable",
+      "nivel_actualizado_en": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "concepcion_uruguay",
+      "nombre": "Concepción del Uruguay",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": 0,
+      "valor_actual": 3.3,
+      "fecha_actual": "2026-09-21T00:00:00",
+      "valor_anterior": 3.3,
+      "fecha_anterior": "2026-09-20T00:00:00",
+      "variacion": 0.0,
+      "tendencia": "estable",
+      "nivel_actualizado_en": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "campichuelo",
+      "nombre": "Campichuelo",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": null,
+      "valor_actual": 2.56,
+      "fecha_actual": "2026-09-21T00:00:00",
+      "valor_anterior": 2.56,
+      "fecha_anterior": "2026-09-20T00:00:00",
+      "variacion": 0.0,
+      "tendencia": "estable",
+      "nivel_actualizado_en": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "gualeguaychu",
+      "nombre": "Gualeguaychú",
+      "nivel": "Sin Datos",
+      "lluvia_24h_mm": 0,
+      "valor_actual": 1.96,
+      "tendencia": "baja",
+      "hora_actualizacion": "19hs",
+      "variacion_1h": null,
+      "variacion_24h": 0.23,
+      "historial": [
+        {
+          "fecha": "2026-09-20T18:23:30Z",
+          "valor": 1.69
+        },
+        {
+          "fecha": "2026-09-20T20:11:49Z",
+          "valor": 1.71
+        },
+        {
+          "fecha": "2026-09-20T23:04:18Z",
+          "valor": 1.73
+        },
+        {
+          "fecha": "2026-09-21T00:39:07Z",
+          "valor": 1.85
+        },
+        {
+          "fecha": "2026-09-21T22:13:40Z",
+          "valor": 1.96
+        }
+      ],
+      "nivel_actualizado_en": "2026-09-21T22:13:40Z"
+    },
+    {
+      "id": "villa_elisa",
+      "nombre": "Villa Elisa",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "basavilbaso",
+      "nombre": "Basavilbaso",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "villa_mantero",
+      "nombre": "Villa Mantero",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "santa_anita",
+      "nombre": "Santa Anita",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "pronunciamiento",
+      "nombre": "Pronunciamiento",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "herrera",
+      "nombre": "Herrera",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "irazusta",
+      "nombre": "Irazusta",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "gral_almada",
+      "nombre": "General Almada",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "gilbert",
+      "nombre": "Estación Gilbert",
+      "lluvia_24h_mm": 0
+    },
+    {
+      "id": "aldea_san_antonio",
+      "nombre": "Aldea San Antonio",
+      "lluvia_24h_mm": 0
+    }
+  ]
+}
