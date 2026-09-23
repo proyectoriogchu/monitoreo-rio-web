@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-09-23T21:32:36Z",
+  "generado_en": "2026-09-23T21:34:17Z",
   "periodo_lluvia": "Período 22/09/26 09:00hs al 23/09/26 09:00hs",
   "lluvia_actualizado_en": "2026-09-23T12:00:00Z",
   "clima": {
@@ -13,55 +13,29 @@
     "lon": -58.5108,
     "dias": [
       {
-        "fecha": "2026-09-21",
-        "codigo_wmo": 1,
-        "condicion": "parcial",
-        "temp_max": 17.7,
-        "temp_min": 10.5,
-        "precipitacion_mm": 0.0,
-        "prob_precipitacion": 39,
-        "viento_max_kmh": 30.3,
-        "rafagas_max_kmh": 62.6,
-        "viento_direccion_grados": 227,
-        "viento_direccion": "SO"
-      },
-      {
-        "fecha": "2026-09-22",
-        "codigo_wmo": 3,
-        "condicion": "nublado",
-        "temp_max": 14.4,
-        "temp_min": 6.7,
-        "precipitacion_mm": 0.0,
-        "prob_precipitacion": 0,
-        "viento_max_kmh": 19.2,
-        "rafagas_max_kmh": 41.8,
-        "viento_direccion_grados": 213,
-        "viento_direccion": "SO"
-      },
-      {
         "fecha": "2026-09-23",
         "codigo_wmo": 3,
         "condicion": "nublado",
-        "temp_max": 17.6,
-        "temp_min": 5.5,
+        "temp_max": 18.5,
+        "temp_min": 4.5,
         "precipitacion_mm": 0.0,
         "prob_precipitacion": 0,
-        "viento_max_kmh": 15.6,
-        "rafagas_max_kmh": 35.3,
-        "viento_direccion_grados": 23,
-        "viento_direccion": "NE"
+        "viento_max_kmh": 17.6,
+        "rafagas_max_kmh": 42.5,
+        "viento_direccion_grados": 20,
+        "viento_direccion": "N"
       },
       {
         "fecha": "2026-09-24",
         "codigo_wmo": 3,
         "condicion": "nublado",
-        "temp_max": 23.7,
-        "temp_min": 9.2,
+        "temp_max": 23.9,
+        "temp_min": 9.7,
         "precipitacion_mm": 0.0,
         "prob_precipitacion": 0,
-        "viento_max_kmh": 16.2,
-        "rafagas_max_kmh": 36.4,
-        "viento_direccion_grados": 9,
+        "viento_max_kmh": 18.4,
+        "rafagas_max_kmh": 38.5,
+        "viento_direccion_grados": 6,
         "viento_direccion": "N"
       },
       {
@@ -69,17 +43,43 @@
         "codigo_wmo": 3,
         "condicion": "nublado",
         "temp_max": 26.7,
-        "temp_min": 13.1,
+        "temp_min": 14.4,
         "precipitacion_mm": 0.0,
-        "prob_precipitacion": 2,
-        "viento_max_kmh": 18.0,
-        "rafagas_max_kmh": 37.1,
-        "viento_direccion_grados": 80,
+        "prob_precipitacion": 0,
+        "viento_max_kmh": 15.9,
+        "rafagas_max_kmh": 28.4,
+        "viento_direccion_grados": 354,
+        "viento_direccion": "N"
+      },
+      {
+        "fecha": "2026-09-26",
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 25.7,
+        "temp_min": 15.8,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 38,
+        "viento_max_kmh": 22.8,
+        "rafagas_max_kmh": 46.1,
+        "viento_direccion_grados": 109,
+        "viento_direccion": "E"
+      },
+      {
+        "fecha": "2026-09-27",
+        "codigo_wmo": 96,
+        "condicion": "tormenta",
+        "temp_max": 19.1,
+        "temp_min": 12.3,
+        "precipitacion_mm": 71.4,
+        "prob_precipitacion": 69,
+        "viento_max_kmh": 25.7,
+        "rafagas_max_kmh": 49.3,
+        "viento_direccion_grados": 72,
         "viento_direccion": "E"
       }
     ]
   },
-  "clima_actualizado_en": "2026-09-21T22:13:31Z",
+  "clima_actualizado_en": "2026-09-23T21:34:17Z",
   "estaciones": [
     {
       "id": "salto_grande_abajo",
