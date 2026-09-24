@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-09-24T17:11:50Z",
+  "generado_en": "2026-09-24T17:17:45Z",
   "periodo_lluvia": "Período 23/09/26 09:00hs al 24/09/26 09:00hs",
   "lluvia_actualizado_en": "2026-09-24T12:00:00Z",
   "clima": {
@@ -244,11 +244,11 @@
           "valor": 1.63
         },
         {
-          "fecha": "2026-09-24T17:11:50Z",
+          "fecha": "2026-09-24T17:17:45Z",
           "valor": 1.61
         }
       ],
-      "nivel_actualizado_en": "2026-09-24T17:11:50Z",
+      "nivel_actualizado_en": "2026-09-24T17:17:45Z",
       "valores_descartados": [
         {
           "fecha": "2026-09-24T04:10:38Z",
