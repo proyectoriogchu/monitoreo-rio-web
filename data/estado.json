@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-09-24T17:09:52Z",
+  "generado_en": "2026-09-24T17:10:27Z",
   "periodo_lluvia": "Período 23/09/26 09:00hs al 24/09/26 09:00hs",
   "lluvia_actualizado_en": "2026-09-24T12:00:00Z",
   "clima": {
@@ -92,7 +92,8 @@
       "fecha_anterior": "2026-09-23T00:00:00-03:00",
       "variacion": -0.14,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-09-24T03:00:00Z"
+      "nivel_actualizado_en": "2026-09-24T03:00:00Z",
+      "valores_descartados": []
     },
     {
       "id": "concordia",
@@ -105,7 +106,8 @@
       "fecha_anterior": "2026-09-23T00:00:00-03:00",
       "variacion": -0.22,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-09-24T03:00:00Z"
+      "nivel_actualizado_en": "2026-09-24T03:00:00Z",
+      "valores_descartados": []
     },
     {
       "id": "colon",
@@ -114,11 +116,17 @@
       "lluvia_24h_mm": 0,
       "valor_actual": 3.86,
       "fecha_actual": "2026-09-24T00:00:00-03:00",
-      "valor_anterior": 6.24,
-      "fecha_anterior": "2026-09-23T00:00:00-03:00",
-      "variacion": -2.38,
+      "valor_anterior": 4.29,
+      "fecha_anterior": "2026-09-22T00:00:00-03:00",
+      "variacion": -0.43,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-09-24T03:00:00Z"
+      "nivel_actualizado_en": "2026-09-24T03:00:00Z",
+      "valores_descartados": [
+        {
+          "fecha": "2026-09-23T00:00:00-03:00",
+          "valor": 6.24
+        }
+      ]
     },
     {
       "id": "concepcion_uruguay",
@@ -131,7 +139,8 @@
       "fecha_anterior": "2026-09-23T00:00:00-03:00",
       "variacion": -0.23,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-09-24T03:00:00Z"
+      "nivel_actualizado_en": "2026-09-24T03:00:00Z",
+      "valores_descartados": []
     },
     {
       "id": "campichuelo",
@@ -144,7 +153,8 @@
       "fecha_anterior": "2026-09-23T00:00:00-03:00",
       "variacion": 0.01,
       "tendencia": "sube",
-      "nivel_actualizado_en": "2026-09-24T03:00:00Z"
+      "nivel_actualizado_en": "2026-09-24T03:00:00Z",
+      "valores_descartados": []
     },
     {
       "id": "gualeguaychu",
