@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-01T12:15:41Z",
-  "periodo_lluvia": "Período 28/09/26 09:00hs al 29/09/26 09:00hs",
-  "lluvia_actualizado_en": "2026-09-29T12:00:00Z",
+  "generado_en": "2026-10-01T13:14:04Z",
+  "periodo_lluvia": "Período 29/09/26 09:00hs al 30/09/26 09:00hs",
+  "lluvia_actualizado_en": "2026-09-30T12:00:00Z",
   "clima": {
     "fuente": "Open-Meteo.com",
     "atribucion": "Weather data by Open-Meteo.com",
@@ -99,7 +99,7 @@
       "id": "concordia",
       "nombre": "Concordia",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 50,
+      "lluvia_24h_mm": 5,
       "valor_actual": 8.76,
       "fecha_actual": "2026-09-30T00:00:00-03:00",
       "valor_anterior": 7.8,
@@ -113,7 +113,7 @@
       "id": "colon",
       "nombre": "Colón",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 6,
+      "lluvia_24h_mm": 0,
       "valor_actual": 4.68,
       "fecha_actual": "2026-09-30T00:00:00-03:00",
       "valor_anterior": 4.46,
@@ -127,7 +127,7 @@
       "id": "concepcion_uruguay",
       "nombre": "Concepción del Uruguay",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": null,
+      "lluvia_24h_mm": 0,
       "valor_actual": 3.68,
       "fecha_actual": "2026-09-30T00:00:00-03:00",
       "valor_anterior": 3.46,
@@ -362,32 +362,32 @@
     {
       "id": "villa_elisa",
       "nombre": "Villa Elisa",
-      "lluvia_24h_mm": 4
+      "lluvia_24h_mm": 0
     },
     {
       "id": "basavilbaso",
       "nombre": "Basavilbaso",
-      "lluvia_24h_mm": 15
+      "lluvia_24h_mm": 0
     },
     {
       "id": "villa_mantero",
       "nombre": "Villa Mantero",
-      "lluvia_24h_mm": null
+      "lluvia_24h_mm": 0
     },
     {
       "id": "santa_anita",
       "nombre": "Santa Anita",
-      "lluvia_24h_mm": null
+      "lluvia_24h_mm": 0
     },
     {
       "id": "pronunciamiento",
       "nombre": "Pronunciamiento",
-      "lluvia_24h_mm": null
+      "lluvia_24h_mm": 0
     },
     {
       "id": "herrera",
       "nombre": "Herrera",
-      "lluvia_24h_mm": null
+      "lluvia_24h_mm": 0
     },
     {
       "id": "irazusta",
