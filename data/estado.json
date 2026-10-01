@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-01T18:15:14Z",
+  "generado_en": "2026-10-01T19:11:28Z",
   "periodo_lluvia": "Período 29/09/26 09:00hs al 30/09/26 09:00hs",
   "lluvia_actualizado_en": "2026-09-30T12:00:00Z",
   "clima": {
@@ -157,10 +157,10 @@
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
       "valor_actual": 2.4,
-      "tendencia": "baja",
-      "hora_actualizacion": "15hs",
-      "variacion_1h": -0.02,
-      "variacion_24h": 0.12,
+      "tendencia": "estable",
+      "hora_actualizacion": "16hs",
+      "variacion_1h": 0.0,
+      "variacion_24h": 0.05,
       "historial": [
         {
           "fecha": "2026-09-29T19:11:43Z",
@@ -349,9 +349,13 @@
         {
           "fecha": "2026-10-01T18:15:14Z",
           "valor": 2.4
+        },
+        {
+          "fecha": "2026-10-01T19:11:28Z",
+          "valor": 2.4
         }
       ],
-      "nivel_actualizado_en": "2026-10-01T18:15:14Z",
+      "nivel_actualizado_en": "2026-10-01T19:11:28Z",
       "valores_descartados": [],
       "lectura_a_confirmar": false
     },
