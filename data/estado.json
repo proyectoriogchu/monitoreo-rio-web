@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-03T12:49:26Z",
-  "periodo_lluvia": "Período 29/09/26 09:00hs al 30/09/26 09:00hs",
-  "lluvia_actualizado_en": "2026-09-30T12:00:00Z",
+  "generado_en": "2026-10-03T18:18:42Z",
+  "periodo_lluvia": "Período 02/10/26 09:00hs al 03/10/26 09:00hs",
+  "lluvia_actualizado_en": "2026-10-03T12:00:00Z",
   "clima": {
     "fuente": "Open-Meteo.com",
     "atribucion": "Weather data by Open-Meteo.com",
@@ -99,7 +99,7 @@
       "id": "concordia",
       "nombre": "Concordia",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 5,
+      "lluvia_24h_mm": 0,
       "valor_actual": 8.86,
       "fecha_actual": "2026-10-02T00:00:00-03:00",
       "valor_anterior": 8.92,
