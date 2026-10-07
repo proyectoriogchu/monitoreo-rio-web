@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-07T03:35:24Z",
+  "generado_en": "2026-10-07T04:11:45Z",
   "periodo_lluvia": "Período 05/10/26 09:00hs al 06/10/26 09:00hs",
   "lluvia_actualizado_en": "2026-10-06T12:00:00Z",
   "clima": {
@@ -156,16 +156,12 @@
       "nombre": "Gualeguaychú",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
-      "valor_actual": 2.36,
-      "tendencia": "estable",
-      "hora_actualizacion": "00hs",
-      "variacion_1h": 0.0,
-      "variacion_24h": 0.12,
+      "valor_actual": 2.37,
+      "tendencia": "sube",
+      "hora_actualizacion": "01hs",
+      "variacion_1h": 0.01,
+      "variacion_24h": 0.13,
       "historial": [
-        {
-          "fecha": "2026-10-05T03:12:33Z",
-          "valor": 2.21
-        },
         {
           "fecha": "2026-10-05T04:13:47Z",
           "valor": 2.22
@@ -345,9 +341,13 @@
         {
           "fecha": "2026-10-07T03:11:44Z",
           "valor": 2.36
+        },
+        {
+          "fecha": "2026-10-07T04:11:45Z",
+          "valor": 2.37
         }
       ],
-      "nivel_actualizado_en": "2026-10-07T03:11:44Z",
+      "nivel_actualizado_en": "2026-10-07T04:11:45Z",
       "valores_descartados": [],
       "lectura_a_confirmar": false
     },
