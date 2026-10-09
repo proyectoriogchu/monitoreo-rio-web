@@ -1,7 +1,7 @@
 {
-  "generado_en": "2026-10-09T12:14:04Z",
-  "periodo_lluvia": "Período 05/10/26 09:00hs al 06/10/26 09:00hs",
-  "lluvia_actualizado_en": "2026-10-06T12:00:00Z",
+  "generado_en": "2026-10-09T13:14:35Z",
+  "periodo_lluvia": "Período 07/10/26 09:00hs al 08/10/26 09:00hs",
+  "lluvia_actualizado_en": "2026-10-08T12:00:00Z",
   "clima": {
     "fuente": "Open-Meteo.com",
     "atribucion": "Weather data by Open-Meteo.com",
@@ -99,7 +99,7 @@
       "id": "concordia",
       "nombre": "Concordia",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 0,
+      "lluvia_24h_mm": 50,
       "valor_actual": 11.14,
       "fecha_actual": "2026-10-08T00:00:00-03:00",
       "valor_anterior": 10.78,
@@ -113,7 +113,7 @@
       "id": "colon",
       "nombre": "Colón",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 0,
+      "lluvia_24h_mm": 30,
       "valor_actual": 6.65,
       "fecha_actual": "2026-10-08T00:00:00-03:00",
       "valor_anterior": 6.29,
@@ -127,7 +127,7 @@
       "id": "concepcion_uruguay",
       "nombre": "Concepción del Uruguay",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 0,
+      "lluvia_24h_mm": null,
       "valor_actual": 5.12,
       "fecha_actual": "2026-10-08T00:00:00-03:00",
       "valor_anterior": 4.88,
@@ -155,7 +155,7 @@
       "id": "gualeguaychu",
       "nombre": "Gualeguaychú",
       "nivel": "Sin Datos",
-      "lluvia_24h_mm": 0,
+      "lluvia_24h_mm": null,
       "valor_actual": 2.91,
       "tendencia": "sube",
       "hora_actualizacion": "09hs",
@@ -362,52 +362,52 @@
     {
       "id": "villa_elisa",
       "nombre": "Villa Elisa",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 42
     },
     {
       "id": "basavilbaso",
       "nombre": "Basavilbaso",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 26
     },
     {
       "id": "villa_mantero",
       "nombre": "Villa Mantero",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 20
     },
     {
       "id": "santa_anita",
       "nombre": "Santa Anita",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 27
     },
     {
       "id": "pronunciamiento",
       "nombre": "Pronunciamiento",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": null
     },
     {
       "id": "herrera",
       "nombre": "Herrera",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 45
     },
     {
       "id": "irazusta",
       "nombre": "Irazusta",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 45
     },
     {
       "id": "gral_almada",
       "nombre": "General Almada",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 55
     },
     {
       "id": "gilbert",
       "nombre": "Estación Gilbert",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 42
     },
     {
       "id": "aldea_san_antonio",
       "nombre": "Aldea San Antonio",
-      "lluvia_24h_mm": 0
+      "lluvia_24h_mm": 24
     }
   ]
 }
