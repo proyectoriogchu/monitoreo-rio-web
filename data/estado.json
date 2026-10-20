@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-20T16:26:17Z",
+  "generado_en": "2026-10-20T17:00:08Z",
   "periodo_lluvia": "Período 18/10/26 09:00hs al 19/10/26 09:00hs",
   "lluvia_actualizado_en": "2026-10-19T12:00:00Z",
   "clima": {
@@ -86,32 +86,27 @@
       "nombre": "Salto Grande Abajo",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": null,
-      "valor_actual": 13.73,
-      "fecha_actual": "2026-10-19T00:00:00-03:00",
-      "valor_anterior": 13.76,
-      "fecha_anterior": "2026-10-18T00:00:00-03:00",
-      "variacion": -0.03,
+      "valor_actual": 13.65,
+      "fecha_actual": "2026-10-20T00:00:00-03:00",
+      "valor_anterior": 13.73,
+      "fecha_anterior": "2026-10-19T00:00:00-03:00",
+      "variacion": -0.08,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-10-19T03:00:00Z",
-      "valores_descartados": [
-        {
-          "fecha": "2026-10-15T00:00:00-03:00",
-          "valor": 10.92
-        }
-      ]
+      "nivel_actualizado_en": "2026-10-20T03:00:00Z",
+      "valores_descartados": []
     },
     {
       "id": "concordia",
       "nombre": "Concordia",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
-      "valor_actual": 10.66,
-      "fecha_actual": "2026-10-19T00:00:00-03:00",
-      "valor_anterior": 10.74,
-      "fecha_anterior": "2026-10-18T00:00:00-03:00",
-      "variacion": -0.08,
+      "valor_actual": 10.62,
+      "fecha_actual": "2026-10-20T00:00:00-03:00",
+      "valor_anterior": 10.66,
+      "fecha_anterior": "2026-10-19T00:00:00-03:00",
+      "variacion": -0.04,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-10-19T03:00:00Z",
+      "nivel_actualizado_en": "2026-10-20T03:00:00Z",
       "valores_descartados": []
     },
     {
@@ -120,12 +115,12 @@
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
       "valor_actual": 6.79,
-      "fecha_actual": "2026-10-19T00:00:00-03:00",
-      "valor_anterior": 6.81,
-      "fecha_anterior": "2026-10-18T00:00:00-03:00",
-      "variacion": -0.02,
-      "tendencia": "baja",
-      "nivel_actualizado_en": "2026-10-19T03:00:00Z",
+      "fecha_actual": "2026-10-20T00:00:00-03:00",
+      "valor_anterior": 6.79,
+      "fecha_anterior": "2026-10-19T00:00:00-03:00",
+      "variacion": 0.0,
+      "tendencia": "estable",
+      "nivel_actualizado_en": "2026-10-20T03:00:00Z",
       "valores_descartados": []
     },
     {
@@ -133,13 +128,13 @@
       "nombre": "Concepción del Uruguay",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
-      "valor_actual": 5.46,
-      "fecha_actual": "2026-10-19T00:00:00-03:00",
-      "valor_anterior": 5.5,
-      "fecha_anterior": "2026-10-18T00:00:00-03:00",
-      "variacion": -0.04,
+      "valor_actual": 5.36,
+      "fecha_actual": "2026-10-20T00:00:00-03:00",
+      "valor_anterior": 5.46,
+      "fecha_anterior": "2026-10-19T00:00:00-03:00",
+      "variacion": -0.1,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-10-19T03:00:00Z",
+      "nivel_actualizado_en": "2026-10-20T03:00:00Z",
       "valores_descartados": []
     },
     {
@@ -147,13 +142,13 @@
       "nombre": "Campichuelo",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": null,
-      "valor_actual": 4.46,
-      "fecha_actual": "2026-10-19T00:00:00-03:00",
-      "valor_anterior": 4.48,
-      "fecha_anterior": "2026-10-18T00:00:00-03:00",
-      "variacion": -0.02,
+      "valor_actual": 4.4,
+      "fecha_actual": "2026-10-20T00:00:00-03:00",
+      "valor_anterior": 4.46,
+      "fecha_anterior": "2026-10-19T00:00:00-03:00",
+      "variacion": -0.06,
       "tendencia": "baja",
-      "nivel_actualizado_en": "2026-10-19T03:00:00Z",
+      "nivel_actualizado_en": "2026-10-20T03:00:00Z",
       "valores_descartados": []
     },
     {
