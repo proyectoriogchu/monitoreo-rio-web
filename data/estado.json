@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-10-22T09:10:49Z",
+  "generado_en": "2026-10-22T14:52:38Z",
   "periodo_lluvia": "Período 20/10/26 09:00hs al 21/10/26 09:00hs",
   "lluvia_actualizado_en": "2026-10-21T12:00:00Z",
   "clima": {
@@ -156,84 +156,12 @@
       "nombre": "Gualeguaychú",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": 0,
-      "valor_actual": 2.68,
-      "tendencia": "baja",
-      "hora_actualizacion": "17hs",
+      "valor_actual": 2.63,
+      "tendencia": "sube",
+      "hora_actualizacion": "11hs",
       "variacion_1h": null,
-      "variacion_24h": -0.07,
+      "variacion_24h": -0.04,
       "historial": [
-        {
-          "fecha": "2026-10-19T21:22:09Z",
-          "valor": 2.88
-        },
-        {
-          "fecha": "2026-10-19T22:22:04Z",
-          "valor": 2.88
-        },
-        {
-          "fecha": "2026-10-19T23:22:22Z",
-          "valor": 2.88
-        },
-        {
-          "fecha": "2026-10-20T00:26:52Z",
-          "valor": 2.87
-        },
-        {
-          "fecha": "2026-10-20T01:29:21Z",
-          "valor": 2.87
-        },
-        {
-          "fecha": "2026-10-20T02:22:04Z",
-          "valor": 2.86
-        },
-        {
-          "fecha": "2026-10-20T03:23:29Z",
-          "valor": 2.86
-        },
-        {
-          "fecha": "2026-10-20T04:23:46Z",
-          "valor": 2.85
-        },
-        {
-          "fecha": "2026-10-20T05:23:33Z",
-          "valor": 2.85
-        },
-        {
-          "fecha": "2026-10-20T06:26:27Z",
-          "valor": 2.84
-        },
-        {
-          "fecha": "2026-10-20T07:35:08Z",
-          "valor": 2.84
-        },
-        {
-          "fecha": "2026-10-20T08:26:05Z",
-          "valor": 2.82
-        },
-        {
-          "fecha": "2026-10-20T09:26:11Z",
-          "valor": 2.82
-        },
-        {
-          "fecha": "2026-10-20T10:21:52Z",
-          "valor": 2.81
-        },
-        {
-          "fecha": "2026-10-20T11:23:51Z",
-          "valor": 2.8
-        },
-        {
-          "fecha": "2026-10-20T12:27:14Z",
-          "valor": 2.79
-        },
-        {
-          "fecha": "2026-10-20T13:34:18Z",
-          "valor": 2.75
-        },
-        {
-          "fecha": "2026-10-20T14:26:05Z",
-          "valor": 2.75
-        },
         {
           "fecha": "2026-10-20T15:25:50Z",
           "valor": 2.79
@@ -289,9 +217,13 @@
         {
           "fecha": "2026-10-21T20:27:20Z",
           "valor": 2.68
+        },
+        {
+          "fecha": "2026-10-22T14:52:38Z",
+          "valor": 2.63
         }
       ],
-      "nivel_actualizado_en": "2026-10-21T20:27:20Z",
+      "nivel_actualizado_en": "2026-10-22T14:52:38Z",
       "valores_descartados": [],
       "lectura_a_confirmar": false
     },
