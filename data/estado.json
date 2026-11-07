@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-11-07T01:38:04Z",
+  "generado_en": "2026-11-07T08:22:04Z",
   "periodo_lluvia": "Período 22/10/26 09:00hs al 23/10/26 09:00hs",
   "lluvia_actualizado_en": "2026-10-23T12:00:00Z",
   "clima": {
@@ -156,16 +156,12 @@
       "nombre": "Gualeguaychú",
       "nivel": "Sin Datos",
       "lluvia_24h_mm": null,
-      "valor_actual": 2.17,
+      "valor_actual": 2.52,
       "tendencia": "sube",
-      "hora_actualizacion": "22hs",
+      "hora_actualizacion": "05hs",
       "variacion_1h": null,
-      "variacion_24h": -0.06,
+      "variacion_24h": 0.34,
       "historial": [
-        {
-          "fecha": "2026-11-05T03:11:13Z",
-          "valor": 2.41
-        },
         {
           "fecha": "2026-11-05T11:52:50Z",
           "valor": 2.28
@@ -193,11 +189,15 @@
         {
           "fecha": "2026-11-07T01:38:04Z",
           "valor": 2.17
+        },
+        {
+          "fecha": "2026-11-07T08:22:04Z",
+          "valor": 2.52
         }
       ],
-      "nivel_actualizado_en": "2026-11-07T01:38:04Z",
+      "nivel_actualizado_en": "2026-11-07T08:22:04Z",
       "valores_descartados": [],
-      "lectura_a_confirmar": false
+      "lectura_a_confirmar": true
     },
     {
       "id": "villa_elisa",
