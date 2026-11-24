@@ -1,5 +1,5 @@
 {
-  "generado_en": "2026-11-24T03:50:48Z",
+  "generado_en": "2026-11-24T13:52:26Z",
   "periodo_lluvia": "Período 22/10/26 09:00hs al 23/10/26 09:00hs",
   "lluvia_actualizado_en": "2026-10-23T12:00:00Z",
   "clima": {
@@ -13,29 +13,16 @@
     "lon": -58.5108,
     "dias": [
       {
-        "fecha": "2026-11-23",
-        "codigo_wmo": 55,
-        "condicion": "lluvia",
-        "temp_max": 27.9,
-        "temp_min": 15.4,
-        "precipitacion_mm": 1.0,
-        "prob_precipitacion": 59,
-        "viento_max_kmh": 9.1,
-        "rafagas_max_kmh": 16.6,
-        "viento_direccion_grados": 343,
-        "viento_direccion": "N"
-      },
-      {
         "fecha": "2026-11-24",
-        "codigo_wmo": 51,
-        "condicion": "lluvia",
-        "temp_max": 28.1,
-        "temp_min": 16.3,
-        "precipitacion_mm": 0.2,
-        "prob_precipitacion": 24,
-        "viento_max_kmh": 15.3,
-        "rafagas_max_kmh": 34.2,
-        "viento_direccion_grados": 214,
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 27.5,
+        "temp_min": 15.9,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 14,
+        "viento_max_kmh": 15.7,
+        "rafagas_max_kmh": 35.3,
+        "viento_direccion_grados": 208,
         "viento_direccion": "SO"
       },
       {
@@ -43,43 +30,56 @@
         "codigo_wmo": 2,
         "condicion": "parcial",
         "temp_max": 26.8,
-        "temp_min": 16.2,
+        "temp_min": 16.6,
         "precipitacion_mm": 0.0,
         "prob_precipitacion": 0,
-        "viento_max_kmh": 21.3,
-        "rafagas_max_kmh": 40.7,
-        "viento_direccion_grados": 127,
+        "viento_max_kmh": 15.4,
+        "rafagas_max_kmh": 28.8,
+        "viento_direccion_grados": 135,
         "viento_direccion": "SE"
       },
       {
         "fecha": "2026-11-26",
-        "codigo_wmo": 2,
-        "condicion": "parcial",
-        "temp_max": 27.5,
-        "temp_min": 16.7,
+        "codigo_wmo": 3,
+        "condicion": "nublado",
+        "temp_max": 28.1,
+        "temp_min": 15.8,
         "precipitacion_mm": 0.0,
         "prob_precipitacion": 0,
-        "viento_max_kmh": 21.0,
-        "rafagas_max_kmh": 41.4,
-        "viento_direccion_grados": 108,
-        "viento_direccion": "E"
+        "viento_max_kmh": 16.8,
+        "rafagas_max_kmh": 32.8,
+        "viento_direccion_grados": 116,
+        "viento_direccion": "SE"
       },
       {
         "fecha": "2026-11-27",
         "codigo_wmo": 3,
         "condicion": "nublado",
-        "temp_max": 28.5,
-        "temp_min": 16.0,
+        "temp_max": 29.6,
+        "temp_min": 16.8,
         "precipitacion_mm": 0.0,
         "prob_precipitacion": 0,
-        "viento_max_kmh": 10.7,
-        "rafagas_max_kmh": 22.3,
-        "viento_direccion_grados": 74,
-        "viento_direccion": "E"
+        "viento_max_kmh": 10.0,
+        "rafagas_max_kmh": 23.8,
+        "viento_direccion_grados": 62,
+        "viento_direccion": "NE"
+      },
+      {
+        "fecha": "2026-11-28",
+        "codigo_wmo": 0,
+        "condicion": "soleado",
+        "temp_max": 31.4,
+        "temp_min": 17.0,
+        "precipitacion_mm": 0.0,
+        "prob_precipitacion": 0,
+        "viento_max_kmh": 13.6,
+        "rafagas_max_kmh": 24.8,
+        "viento_direccion_grados": 47,
+        "viento_direccion": "NE"
       }
     ]
   },
-  "clima_actualizado_en": "2026-11-23T13:03:21Z",
+  "clima_actualizado_en": "2026-11-24T13:52:26Z",
   "estaciones": [
     {
       "id": "salto_grande_abajo",
